@@ -55,7 +55,8 @@ ResultPag
   <img src="CameraPage.jpeg" width="250"/>
     <img src="ProcessingPage1.jpeg" width="250"/>
   <img src="ProcessingPage2.jpeg" width="250"/>
-  <img src=" About.jpeg" width="250"/>
+     <img src="ResultPage.jpeg" width="250"/>
+  <img src="About.jpeg" width="250"/>
   <img src="Historypage.jpeg" width="250"/>
  
  
