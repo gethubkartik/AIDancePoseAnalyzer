@@ -29,25 +29,6 @@ This project combines **Android development** and **AI/ML concepts**, making it 
  
  
 ## 🎬 App Flow Screens
- About.jpeg
-Add files via upload
-now
-CameraPage.jpeg
-Add files via upload
-now
-HomePage1.jpeg
-Add files via upload
-now
-ProcessingPage1.jpeg
-Add files via upload
-now
-ProcessingPage2.jpeg
-Add files via upload
-now
-README.md
-Update README.md
-52 minutes ago
-ResultPag
  
 <p align="center">
    <img src="HomePage1.jpeg" width="250"/>
